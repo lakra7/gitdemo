@@ -1,0 +1,45 @@
+git-> version control
+	v1
+	v2
+	v3 new
+-itis distributed on cloud
+-collaboration
+-tracking changes
+-recovery
+
+download git and even login github
+in githuhb to crete repository:
+repository->create->repositoryname(gitdemo)->public->tick add a readme->create repo
+
+for the 1st time need to configured gitub
+ for the first time to read-> go to the vs_code location file & in location just write "cmd"then enter
+then  'git config --global user.name "lakra7" ' run this
+here we configured the GitHub id
+now we have to configured email id too 
+' git config --global user.email "lakrakishor04754@gmail.com" '
+
+optional-> ' git config --global color.ui auto '
+
+if we want to see the hidden file then it is not shown so run this cmd -> 
+mandatory cmd:  git init
+now hidden folder is shown
+
+to get the repository link: code->local->https (copy the link)
+mandatory cmd: git remote add origin https://github.com/lakra7/gitdemo.git
+now we made a successful connection to github a/c
+
+run on terminal (pull request):
+git pull origin main
+
+go to gitdemo & add some text on it 'kishor'
+we can add the file kishor.txt
+
+git pull origin main
+git status
+
+run in vsc terminal to add:( from github to vscode)
+git add . //add all file
+git status //to see status
+git commit -m "commit message"
+git push
+

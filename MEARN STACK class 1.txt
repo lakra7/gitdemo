@@ -1,0 +1,65 @@
+MEARN STACK
+
+THREE PILLERS -> (HTML CSS JS)
+WB DEV
+->buildering /developers team
+-> testing team (manual/automated testers)
+-> hosting teams( develops team)
+-> maintenance team/ support team
+
+SDLC( software development life cycle)
+
+m->database
+e->backend
+a-> frontend
+n->backend
+
+URL(uniform resource locator)
+hhtps://education.rohanacademy.edu/fullstack
+https: Protocol
+rohanacademy: server/domain name
+education : sub-domain
+.edu: TLD(top level domain
+fullstack: path/location
+
+protocol: set of rules /instruction 
+	http:
+	https: ..secure
+	tcp: transmission control protocol
+	udp: user datagram protocol
+	smtp: simple mail transfer protocol
+	ftp:
+	ip:
+https is use for secure our data for ex- in bank etc
+but http is used in charity webpage 
+client/web page ----uname&password----insta ac
+ssl (secure socket layer) certification
+
+
+server/domain name:
+	>unique identification
+	>eg :google,amazon
+
+sub-domain name:
+	googlemeet only for meet
+	gdrive
+	gmail
+	gphoto
+	gfile
+	gchorme
+	gpay
+
+	amazon shopping
+	aws
+
+TLD(top level domain):
+	amzon.in (india)
+	amazon.com (commercial)
+	amazon.edu (education)
+	amazon.org(organization) .uk(united state)
+offline editor:
+	notepad
+	notepad++
+	sublime
+	open brackets
+	vs code
